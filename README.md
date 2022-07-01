@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Lavkush98
 - 👀 I’m interested in web developemment.
-- 🌱 I’m currently learning html/css
+- 🌱 I’m currently learning full stack Developer.
 - 
 
 <!---
